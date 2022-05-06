@@ -1,1 +1,1 @@
-web: getir-case-study
+web: getir-assignment
