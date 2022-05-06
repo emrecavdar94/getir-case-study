@@ -3,7 +3,7 @@
 
 I use local config where under the .config folder.You can add your env configs but i suggest you to use the encryption tool like sops.
 I want to write logs to file because this project does not contains any tools to store log. You can see logs/output.log
-
+I deployed this app to heroku. Link => [https://getir-test-study-app.herokuapp.com/](https://getir-test-study-app.herokuapp.com/)
 
 ## Installation
 Installation links used in this demo are given below:
