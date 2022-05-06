@@ -1,0 +1,8 @@
+appname: "getir-assignment"
+server:
+  port: 3000
+logLevel: "debug"
+mongoDB:
+  uri: mongodb+srv://challengeUser:WUMglwNBaydH8Yvu@challenge-xzwqd.mongodb.net/getir- case-study?retryWrites=true
+  dbName: "getir-case-study"
+  collection: "records"
